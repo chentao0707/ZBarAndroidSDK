@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Feb 03 14:04:17 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Administrator\\Desktop\\ZBarDecoder.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|ZBarBuild>~net/~sourceforge/~zbar/~BuildConfig.class;<po|ZBarBuild>~net/~sourceforge/~zbar/~R$attr.class;<po|ZBarBuild>~net/~sourceforge/~zbar/~R$drawable.class;<po|ZBarBuild>~net/~sourceforge/~zbar/~R$string.class;<po|ZBarBuild>~net/~sourceforge/~zbar/~R$style.class;<po|ZBarBuild>~net/~sourceforge/~zbar/~R.class;<jar|annotations.jar>
+includes=
